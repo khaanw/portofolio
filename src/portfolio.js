@@ -51,14 +51,14 @@ const skills = {
           skillName: "ERPNext",
           fontAwesomeClassname: "simple-icons:erpnext",
           style: {
-            color: "#1B74E4", // Bisa ganti sesuai preferensi, ERPNext belum ada icon resminya, biasanya pakai generic
+            color: "#1B74E4",
           },
         },
         {
           skillName: "Frappe",
           fontAwesomeClassname: "simple-icons:frappe",
           style: {
-            color: "#1B74E4", // Sama seperti ERPNext
+            color: "#1B74E4",
           },
         },
         {
